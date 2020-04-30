@@ -1,3 +1,3 @@
 # Predicting Blood Donations
 
-A ML tech evluation
+A ML tech evaluation
